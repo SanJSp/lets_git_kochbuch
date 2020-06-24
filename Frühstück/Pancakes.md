@@ -1,5 +1,7 @@
 # Amerikanische Pancakes
 ### Die leckersten, die ich je gegessen habe.
+Zeitbedarf: 10 min
+Portionen: 12-16
 
 ## Zutaten
 * 150 g Mehl
@@ -18,3 +20,4 @@
 1. Die Pfanne auf mittlerer Stufe erhitzen, jeweils etwa einen TL Öl hineingeben und nacheinander den Teig zu Pancakes verbacken. Vier pro Pfanne. Wichtig! Ganz wenig Öl verwenden und langsam, also auf mittlerer Stufe nicht zu heiß ausbacken.
 
 *Schmecken toll mit Joghurt, Ahornsirup und Früchten*
+<img src="pancakes.jpg" width=300px>
