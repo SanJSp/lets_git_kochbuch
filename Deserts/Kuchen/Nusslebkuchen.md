@@ -23,7 +23,7 @@ Dies ist das Rezept für Gabi's Nusslebkuchen. Es eignet sich zum Backen, voraus
 ## Anleitung
 
 1. Das Fett erhitzen.
-2. Den Zucker dazugeben und kremig rühren. Danach kalt werden lassen.
+2. Den Zucker dazugeben und cremig rühren. Danach kalt werden lassen.
 3. Die Gewürze und Zutaten unterrühren. Zuletzt Mehl und Backpulver unterrühren.
 4. Dann wird der Teig auf Oblaten gesetzt. 
 5. Bei mittlerer Hitze ungefähr 30 bis 35 Minuten backen. 
