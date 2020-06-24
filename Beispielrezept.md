@@ -12,7 +12,7 @@ Auflistung der Zutaten mit Menge davor z.B.
 ## Anleitung
 
 Schritt für Schritt Anleitung, um das Gericht zu kochen, z.B.
-1. Wasser zum Kocken bringen 
+1. Wasser zum Kochen bringen 
 
 ## Tipps
 
