@@ -1,6 +1,6 @@
 ---
 name: Rezept hinzufügen
-about: Hiermit kansnt du ein neues Rezept anfragen/vorschlagen
+about: Hiermit kannst du ein neues Rezept anfragen/vorschlagen
 title: "[Gericht] hinzufügen"
 labels: Rezept
 assignees: ''
