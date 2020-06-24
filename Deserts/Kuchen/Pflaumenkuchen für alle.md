@@ -40,5 +40,3 @@ Das Obst verteilen, mit Guß auffüllen aber die Früchte nicht vollständig bed
 180°C 40-45min
 
 nach 30min ggf. schon mit Alufolie abdecken.
-
-> Backzeit nochmal prüfen und im Rezept anpassen.
