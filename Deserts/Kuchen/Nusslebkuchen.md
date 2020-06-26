@@ -1,6 +1,6 @@
 # Nusslebkuchen
 
-Dies ist das Rezept für Gabi's Nusslebkuchen. Es eignet sich zum Backen, vorausgesetzt, man hat alle Zutaten und einen Backofen mit Backblech. Mit dem Teig werden kleine Plätzchen auf Oblaten gesetzt und gebacken. Die fertigen Küchlein kann man in ein Museum bringen oder unter den Weihnachtsbaum stellen. Man kann sie auch einfach fressen.
+Dies ist das Rezept für Gabi's Nusslebkuchen. Es eignet sich zum Backen, vorausgesetzt, man hat alle Zutaten und einen Backofen mit Backblech. Mit dem Teig werden kleine Plätzchen auf Oblaten gesetzt und gebacken. Die fertigen Küchlein kann man in ein Museum bringen oder unter den Weihnachtsbaum stellen. Man kann sie auch einfach aufessen.
 
 ## Zutaten
 ### Teig
