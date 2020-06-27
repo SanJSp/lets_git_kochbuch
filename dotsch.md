@@ -32,8 +32,8 @@ Schwierigkeit: leicht
 Tipp: Schmeckt lecker mit Preiselbeeren
 
 ## Bild
+Und so sollte es am Ende ungefähr aussehen...:
 
-Bild wird noch nachgereicht...
-
+<img src="dotsch.jpg"/>
 
 
