@@ -19,17 +19,23 @@
 
 ## Zubereitung
 
-Koriander, Pfeffer, Kreuzkümmel und das Kurkumapulver zusammen mit den Ölen in einen kleinen Topf geben und etwa 2 Minuten köcheln lassen, bis die Gewürze duften.
-Das Öl durch ein Sieb abseihen und abkühlen lassen.
-Danach eine Prise Meersalz und den Saft einer halben Limette einrühren.
+1. Koriander, Pfeffer, Kreuzkümmel und das Kurkumapulver zusammen mit den Ölen in einen kleinen Topf geben und etwa 2 Minuten köcheln lassen, bis die Gewürze duften.
+	* Das Öl durch ein Sieb abseihen und abkühlen lassen.
+	* Danach eine Prise Meersalz und den Saft einer halben Limette einrühren.
 
-Die Tomaten waschen und in Würfel schneiden.
-Die halbe Melone ebenfalls in Würfel schneiden.
-Tomate und Melone in einer Schüssel mischen.
-Den Fetakäse ebenfalls würfeln und in die Schüssel geben.
-Das Gewürzöl über die Zutaten gießen und alles vorsichtig vermengen.
-Mindestens 15 Minuten im Kühlschrank durchziehen lassen.
-Bei Bedarf kann auch noch Limettensaft nachgegeben werden.
+2. Die Tomaten waschen und in Würfel schneiden.
+
+3. Die halbe Melone ebenfalls in Würfel schneiden.
+
+4. Tomate und Melone in einer Schüssel mischen.
+
+5. Den Fetakäse ebenfalls würfeln und in die Schüssel geben.
+
+6. Das Gewürzöl über die Zutaten gießen und alles vorsichtig vermengen.
+
+7. Mindestens 15 Minuten im Kühlschrank durchziehen lassen.
+
+8. Bei Bedarf kann auch noch Limettensaft nachgegeben werden.
 
 ## Anrichten
 
@@ -37,3 +43,4 @@ Der Salat wir auf einem Teller oder einer geeigneten Schüssel angerichtet.
 Ich empfehle die gezupften Blätter glatter Petersilie dekorativ auf dem Salat zu verteilen.
 Wer mag kann - je nach Geschmack - noch Scheiben von Weissbrot oder Fladenbrot dazu reichen. 
 
+<img src="https://github.com/wo16c/lets_git_kochbuch/Salat_Tomate_Wassermelone.jpg"/>
