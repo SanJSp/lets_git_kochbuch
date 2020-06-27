@@ -1,5 +1,3 @@
-*Hier sieht man wie ein Beispielrezept aussehen sollte.*
-
 # Apfelkuchen mit Streuseln vom Blech
 
 Der Apfelkuchen kann zum Kaffee oder zum Tee genossen werden, z.B. als Zwischenmahlzeit.
@@ -51,4 +49,4 @@ Der Apfelkuchen wird anschließend im vorgeheizten Ofen (175 Grad, Ober- und unt
 
 ## Bild
 
-![Apfelkuchen](/Apfelkuchen.png)
+<img src="Apfelkuchen.png" width=300px>
