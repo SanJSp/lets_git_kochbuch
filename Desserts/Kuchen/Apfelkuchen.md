@@ -40,7 +40,7 @@ Jedes Apfelviertel weiter in Scheiben oder Würfel schneiden und den Teig dicht 
 1. Butter, Zucker, Vanillezucker und Mehl in einer Schüssel miteinander verkneten.
 2. Die Masse in kleine Brösel stückeln und gleichmäßig auf dem Blech über die Früchten verteilen.
 
-Der Apfelkuchen wird anschließend im vorgeheizten Ofen (175 Grad, Ober- und unterhitze) ca. 45 Minuten gebacken.
+Der Apfelkuchen wird anschließend im vorgeheizten Ofen (175 Grad, Ober- und Unterhitze) ca. 45 Minuten gebacken.
 
 ## Tipps
 
