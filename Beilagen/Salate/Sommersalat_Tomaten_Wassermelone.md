@@ -44,5 +44,4 @@ Ich empfehle die gezupften Blätter glatter Petersilie dekorativ auf dem Salat z
 Wer mag kann - je nach Geschmack - noch Scheiben von Weissbrot oder Fladenbrot dazu reichen. 
 
 Guten Appetit!
-<img src="https://github.com/wo16c/lets_git_kochbuch/pull/Salat_Tomate_Wassermelone_small.jpg"/>
-!(https://raw.githubusercontent.com/wo16c/lets_git_kochbuch/Beilagen/Salate/Salat_Tomate_Wassermelone.jpg)
+<img src="https://github.com/wo16c/lets_git_kochbuch/Beilagen/Salate/pull/Salat_Tomate_Wassermelone_small.jpg"/>
