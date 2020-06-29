@@ -3,11 +3,12 @@
 Die Alternative für Programmierer zum Pizza-Bringdienst. ;)
 
 ## Zutaten
-für 4 Personen
-    * 2 Gläser getrocknete Tomaten (ca 500g Einwaage)
-    * 500 g Pasta
-    * eine Handvoll Rucola
-    * Salz, Knoblauch, Ölivenöl
+(für 4 Personen)
+
+* 2 Gläser getrocknete Tomaten (ca 500g Einwaage)
+* 500 g Pasta
+* eine Handvoll Rucola
+* Salz, Knoblauch, Ölivenöl
 
 ## Anleitung
 
