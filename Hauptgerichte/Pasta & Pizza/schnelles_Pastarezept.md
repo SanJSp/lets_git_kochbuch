@@ -1,9 +1,9 @@
 #Pasta  mediterran für Eilige
 
-Die ALternative für Programmierer zum Pizza-Bringdienst.
+Die Alternative für Programmierer zum Pizza-Bringdienst.
 
 ##Zutaten
-
+für 4 Personen
     * 2 Gläser getrocknete Tomaten (ca 500g Einwaage)
     * 500 g Pasta
     * eine Handvoll Rucola
