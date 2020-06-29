@@ -23,3 +23,7 @@
 5. Zum Schluß die Trockenfrüchte zugeben und kurz mitrösten.
 6. Pfanne vom Herd nehmen und das Müsli erkalten lassen
 
+## Tipp
+
+Wer Rosinen und/oder Trockenfrüchte nicht mag, der lässt diese einfach weg!
+
