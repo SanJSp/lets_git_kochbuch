@@ -1,15 +1,15 @@
-#Pasta  mediterran für Eilige
+# Pasta  mediterran für Eilige
 
-Die Alternative für Programmierer zum Pizza-Bringdienst.
+Die Alternative für Programmierer zum Pizza-Bringdienst. ;)
 
-##Zutaten
+## Zutaten
 für 4 Personen
     * 2 Gläser getrocknete Tomaten (ca 500g Einwaage)
     * 500 g Pasta
     * eine Handvoll Rucola
     * Salz, Knoblauch, Ölivenöl
 
-##Anleitung
+## Anleitung
 
 * Pasta in Salzwasser mit etwas Olivenöl und nicht zu wenig Salz garen. 
 
