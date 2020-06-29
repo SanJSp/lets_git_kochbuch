@@ -45,3 +45,7 @@ Variante: Kokosflocken unter die Walnüsse mischen und zur Masse hinzufügen.
 ## Bild
 
 <img src="https://static.essen-und-trinken.de/bilder/bf/66/10325/galleryimage/44990f0ea64f6154d8439261cfd8ac04.jpg"/>
+
+## Originalseite
+
+[Essen und Trinken] https://www.essen-und-trinken.de/rezepte/61874-rzpt-walnuss-brownies
