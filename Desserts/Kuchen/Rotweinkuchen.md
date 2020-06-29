@@ -2,7 +2,7 @@
 
 Der Rotweinkuchen ist ein haltbarer, einfacher Kastenkuchen, welcher sich auch sehr gut zum Einfrieren eignet.
   
-Schwierigkeitsgrad: leicht | Zubereitungsdauer: unter 15 Minuten | Backzeit: ca. 1 Stunde
+ | Schwierigkeitsgrad: leicht | Zubereitungsdauer: unter 15 Minuten | Backzeit: ca. 1 Stunde |
 
 ## Zutaten
 
