@@ -4,18 +4,20 @@ Für 1 Kastenbrot (ca. 30 cm)
 
 ## Zutaten
 
-1 Würfel frische Hefe450 ml lauwarmes Wasser250 g Dinkelvollkornmehl
-250 g Weizenvollkornmehl
-75 g Sonnenblumenkerne
-75 g Sesam
-2 TL Salz
-2 EL Zitronensaft oder Essig
+* 1 Würfel frische Hefe
+* 450 ml lauwarmes Wasser
+* 250 g Dinkelvollkornmehl
+* 250 g Weizenvollkornmehl
+* 75 g Sonnenblumenkerne
+* 75 g Sesam
+* 2 TL Salz
+* 2 EL Zitronensaft oder Essig
 
 
 ## Außerdem
 
-etwas Fett für die Form
-einige Körner zum Bestreuen
+* etwas Fett für die Form
+* einige Körner zum Bestreuen
 
 
 ## Zubereitung
