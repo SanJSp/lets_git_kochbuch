@@ -59,4 +59,4 @@ Warum der Kuchen manchmal (unabhängig von der Backzeit) noch spundig (also teig
 
 ## Bild
 
-*folgt noch*
+<img src="lets_git_kochbuch/images/rotweinkuchen.jpg"/>
