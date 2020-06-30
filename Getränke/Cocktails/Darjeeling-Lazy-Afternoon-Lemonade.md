@@ -5,7 +5,7 @@ Ein prima Cocktail, um einen Lazy Afternoon angemessen zelebrieren zu können.
 ## Zutaten
 
 Zutaten für 1 Cocktail:
-* 3 cl Jameson
+* 3 cl [Jameson](https://de.wikipedia.org/wiki/Jameson_(Whiskeybrennerei))
 * Afternoon Darjeeling Tea
 * 1 cl Limettensaft
 * Limettenscheiben (Dekoration)
@@ -13,7 +13,7 @@ Zutaten für 1 Cocktail:
 
 ## Zubereitung
 
-Eis und Limette ins Glas geben. Den Tee und den Whilsy hinzugeben und mit Ginger Ale auffüllen.
+Eis und Limette ins Glas geben. Den Tee und den Whisky hinzugeben und mit Ginger Ale auffüllen.
 
 ## Tipps
 
