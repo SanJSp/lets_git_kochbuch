@@ -22,4 +22,4 @@ Tipp 1: Salz ins Nudelwasser geben, nachdem es kocht um Strom zu sparen.
 
 ## Bild
 
-Hier kann ein oder mehrere Bilder des fertigen Gerichts eingefügt werden.
+Hier können ein oder mehrere Bilder des fertigen Gerichts eingefügt werden.
