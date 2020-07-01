@@ -1,4 +1,4 @@
-# Wassermelonen-Slush mit Git
+# Wassermelonen-Slush mit Gin
 
 Das perfekete Sommergetränk und eine echte Abwechslung für Gin-Freunde
 
