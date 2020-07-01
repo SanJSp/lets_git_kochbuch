@@ -34,6 +34,6 @@ Tipp: Schmeckt lecker mit Preiselbeeren
 ## Bild
 Und so sollte es am Ende ungefähr aussehen...:
 
-<img src="dotsch.jpg"/>
+<img src="../../images/dotsch.jpg"/>
 
 

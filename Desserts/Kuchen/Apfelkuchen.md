@@ -49,4 +49,4 @@ Der Apfelkuchen wird anschließend im vorgeheizten Ofen (175 Grad, Ober- und Unt
 
 ## Bild
 
-<img src="Apfelkuchen.png" width=300px>
+<img src="../../images/Apfelkuchen.png" width=300px>

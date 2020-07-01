@@ -32,4 +32,4 @@ Wenn es dann ans Essen geht einfach die Nudeln deinen Wahl kochen. Das Pesto nim
 
 ## Bild
 
-![Mehrere Gläser mit Bärlauch-Pesto](f47-bärlauchpesto.jpg)
+![Mehrere Gläser mit Bärlauch-Pesto](../../images/f47-bärlauchpesto.jpg)
