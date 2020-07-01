@@ -45,4 +45,4 @@ Wer mag kann - je nach Geschmack - noch Scheiben von Weissbrot oder Fladenbrot d
 
 Guten Appetit!
 
-<img src="Salat_Tomate_Wassermelone_small.jpg">
+<img src="/images/Salat_Tomate_Wassermelone_small.jpg"/>
