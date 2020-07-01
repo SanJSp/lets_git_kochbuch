@@ -26,4 +26,4 @@ Das perfekete Sommergetränk und eine echte Abwechslung für Gin-Freunde
 
 ## Bild
 
-<img src="/images/Wassermelonen-Slush.jpg"/>
+<img src="/images/Wassermelonen-Slush.jpg">
