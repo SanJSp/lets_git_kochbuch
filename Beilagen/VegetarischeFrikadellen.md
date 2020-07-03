@@ -1,5 +1,5 @@
 # Vegetarische Frikadellen
-- Gelingen leicht und sind schnell gemacht
+Gelingen leicht und sind schnell gemacht
 
 Die geschmackvolle Alternative zur Fleisch-Frikadelle, entweder als Beilage frisch gebraten oder zu einem knackigen Salat kalt servieren.
 
