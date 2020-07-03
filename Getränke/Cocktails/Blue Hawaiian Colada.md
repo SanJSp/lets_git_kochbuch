@@ -2,7 +2,7 @@
 
 Der Blue Hawaiian wurde in den 1950ern in Hawaii erfunden. Er liegt geschmacklich irgendwo zwischen einer Pina Colada und dem Swimming Pool.
 
-<img src="Blue Hawaiian Colada.jpg"/>
+<img src="../../images/Blue Hawaiian Colada.jpg"/>
 
 ## Zutaten
 

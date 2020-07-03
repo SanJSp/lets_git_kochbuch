@@ -65,4 +65,4 @@ Tipp: Vor dem Servieren mit frisch geriebenem Pfeffer würzen und sofort genieß
 
 ## Bild
 
-<img src="Bilder/Pizza_mit_Spinat_und_Feta.jpg" width="50%" align="left"/>
+<img src="../../images/Pizza_mit_Spinat_und_Feta.jpg" width="50%" align="left"/>

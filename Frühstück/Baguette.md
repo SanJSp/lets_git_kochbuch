@@ -28,6 +28,6 @@ Mit einer Blumenspritze Salzwasser auf die Baguettes sprühen, nachdem sie in de
 
 ## Bild
 
-<img src="Baguette.jpg" width=400px>   
+<img src="../images/Baguette.jpg" width=400px>   
 
 *Hier habe ich mit dem ersten Mehl noch eine Handvoll Quinoa hinzugefügt*
