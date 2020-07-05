@@ -4,7 +4,7 @@ Hier sammeln wir die Lieblings-Rezepte der Teilnehmer:innen des Kurses Let's Git
 
 ## Ein neues Rezept hinzufügen
 
-Wenn du ein Rezept hinzufügen möchtest, dann erstelle ein Issue für das Gericht und beschreibe dieses kurz. Anschließend kannst du das Rezept schreiben (wie in [Beispielrezept.md](Beispielrezept.md) beschrieben) und mit einem Pull Request einreichen. Bitte achte darauf, dass du das Rezept in den richtigen Ordner einordnest und es schön mit Markdwon formatierst.
+Wenn du ein Rezept hinzufügen möchtest, dann erstelle ein Issue für das Gericht und beschreibe dieses kurz. Anschließend kannst du das Rezept schreiben (wie in [Beispielrezept.md](Beispielrezept.md) beschrieben) und mit einem Pull Request einreichen. Bitte achte darauf, dass du das Rezept in den richtigen Ordner einordnest und es schön mit Markdown formatierst.
 
 ## Struktur dieses Projekts ändern
 
